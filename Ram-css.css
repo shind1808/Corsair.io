@@ -32,7 +32,7 @@
 }
 .videoRam0{
 	width: 1340px;
-	height: 700px;
+	height: 800px;
 	position: relative;
   	overflow: hidden;
 	color: white;
@@ -47,7 +47,7 @@
 }
 .videoram2{
 	width: 1340px;
-	height: 700px;
+	height: 800px;
 	background-color: #E8BB00;
 }
 .showRam{
